@@ -1,0 +1,35 @@
+body{
+    font:20px/1.5 arial,helvetica,sans-serif;
+    padding:0;
+    margin:0;
+    height:600px;
+    background:url("2.jpg");
+}
+.c1{
+    width:100%;
+    text-align: center;
+}
+.inputs{
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+}
+#g ,#dob{
+    width:160px;
+    height:27px;
+    border-radius:10px; 
+    font-size: 17px;
+}
+#a1{
+    width:250px;
+    height:70px;
+    border-radius:10px;
+    
+}
+#button{
+    width:140px;
+    height: 40px; 
+    margin-bottom: 20px;
+    background-color:rgba(202, 39, 39); 
+    font-weight: bold;
+}
